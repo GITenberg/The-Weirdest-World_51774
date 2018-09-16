@@ -1,0 +1,39 @@
+_repo: The-Weirdest-World_51774
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  author:
+    agent_name: Lafferty, R. A.
+    alias: Lafferty, Raphael Aloysius
+    birthdate: 1914
+    deathdate: 2002
+    gutenberg_agent_id: '25720'
+    url: http://www.gutenberg.org/2009/agents/25720
+    wikipedia: http://en.wikipedia.org/wiki/R.A._Lafferty
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Florida -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Weirdest World
+url: http://www.gutenberg.org/ebooks/51774
